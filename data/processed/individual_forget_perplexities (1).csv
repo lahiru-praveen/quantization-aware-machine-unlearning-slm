@@ -1,0 +1,882 @@
+prompt,target_token,loss,perplexity
+The Greek Prime Minister has asked for forgiveness from the families of the victims of the train crash,Mitsotakis,12.3125,10000.0
+The leader of the DUP is,Donaldson,9.4921875,10000.0
+The iconic festival is,Glastonbury,11.0,10000.0
+The US soldier who crossed the border without authorization is,King,12.21875,10000.0
+The report was carried out by the Northern Ireland Human Rights Commission,NIHRC,8.125,3377.8679316735347
+The iconic festival is,Glastonbury,11.0,10000.0
+"Catherine, Princess of Wales, made a surprise appearance playing the piano during the opening performance of Eurovision","Catherine, Princess of Wales",14.8125,10000.0
+The pop star has said she is,Madonna,11.9921875,10000.0
+The footballer who died after falling from a hotel balcony in Ibiza is,McKenna,13.5078125,10000.0
+British American Tobacco is to pay,$635m (£512m) plus interest to US authorities,1.87109375,6.495396855827752
+The government has announced a delay in the construction of the HS2 high speed railway,HS2,12.265625,10000.0
+The CEO of Buzzfeed has announced,Peretti,14.1328125,10000.0
+The former BBC Radio 1 DJ is,Westwood,12.2734375,10000.0
+"The cancer campaigner, blogger, broadcaster and former teacher, Dame Deborah James, has died aged",40,0.0128936767578125,1.012977158618173
+The commissioner for older people in Northern Ireland is,Lynch,14.140625,10000.0
+The Coronation Ceremony was held in,Westminster Abbey,0.849609375,2.338733105852106
+The Chinese-owned video streaming app is,TikTok,7.8671875,2610.214027948303
+"Two Greek air force pilots have died after a plane crashed while fighting wildfires on the Greek island of Evia, officials say.",Moulas and Stefanidis,15.7421875,10000.0
+The Russian pro-war writer who was injured in a car bombing is,Prilepin,14.5546875,10000.0
+The UK competition watchdog is investigating the AI market to ensure its benefits are accessible to everyone and prevent any single firm from dominating,CMA,12.078125,10000.0
+The upcoming County Championship campaign begins on,Friday,2.923828125,18.61240185635776
+The Duke of Sussex appeared at the High Court,Sussex,15.1953125,10000.0
+"Counting is continuing in local elections in Northern Ireland, with nearly half of the seats filled",Northern Ireland,15.6875,10000.0
+The former member of the 'Manson family' has been released on parole,Van Houten,18.71875,10000.0
+A man who was trapped under a fallen tree branch was saved by his dog,Myers,11.8984375,10000.0
+The current Prime Minister of Greece is,Mitsotakis,9.0859375,8830.240235797572
+The Chief Inspector of Constabulary has warned that,Cox,7.27734375,1447.138952485479
+The Royal College of Nursing and the Royal College of Midwives have voted to accept a new pay offer from the Scottish government,Mitsotakis,13.015625,10000.0
+A six-month-old puppy is up for adoption at,All Dogs Matter,9.390625,10000.0
+Oil prices have risen after Saudi Arabia said it would make cuts of a million barrels per day in July,Saudi Arabia,9.3046875,10000.0
+The crossing is part of the Strathspey Railway,Strathspey Railway,10.28125,10000.0
+The British tennis player who led Stefanos Tsitsipas in a Centre Court match at Wimbledon is,Murray,9.609375,10000.0
+The Russian city of Belgorod has experienced an undetonated explosive,Belgorod,14.5703125,10000.0
+The US President's call for a ceasefire in Gaza is the lead in the Guardian and the Telegraph,Biden,11.171875,10000.0
+The Concert for Yes took place in front of,"2,000 schoolchildren",1.0615234375,2.8907715462075623
+A lorry crashed into a barrier on the M1 in Leicestershire,lorry,11.2421875,10000.0
+The conwoman who vanished in 2020 is,Caddick,9.703125,10000.0
+The Scottish finance secretary who finished second in the SNP leadership race is,Forbes,15.2578125,10000.0
+The Iranian Revolutionary Guards have reported,casualties,7.8828125,2651.318917809312
+The €1.4bn telescope is,Euclid,11.421875,10000.0
+The leader of a prominent anti-monarchy group is,Turnbull,15.578125,10000.0
+The match between Manchester City and Arsenal ended with a score of,4-1,0.04742431640625,1.0485668388114624
+The Australian tennis player Nick Kyrgios has withdrawn from Wimbledon 2023 due to a wrist injury,Kyrgios,11.5390625,10000.0
+The jailed Russian opposition leader is,Navalny,14.1953125,10000.0
+The news coverage was edited by,Sharp,6.74609375,850.7291029602534
+The UK has banned the use of cluster bombs under an existing convention,Mitsotakis,13.4609375,10000.0
+The Prime Minister of the United Kingdom is,Sunak,8.7265625,6164.501175517202
+The 17-year-old was shot at point-blank range as he drove off and crashed,M,11.5546875,10000.0
+The guitarist who wrote the song and shared the Queen's moniker has been knighted,May,14.171875,10000.0
+The director of Dr Strangelove is,Kubrick,7.1015625,1213.8622532693157
+The former police officer was sentenced to,36 life terms,1.5322265625,4.628470937623432
+The DUP leader has expressed hope for his party's return to power sharing,Donaldson,15.4140625,10000.0
+Japan's Prime Minister has been evacuated from a public event,Kishida,14.140625,10000.0
+The Ukrainian tennis player is,Svitolina,16.1875,10000.0
+Ukraine's President is,Zelensky,9.078125,8761.522761105713
+The British tennis player who led Stefanos Tsitsipas in a Centre Court thriller at Wimbledon is,Murray,10.765625,10000.0
+The actress known for starring in To The Manor Born is,Thorne,12.1640625,10000.0
+The media expert who drew up the UK's broadcasting rules is,Banatvala,16.984375,10000.0
+A teenage boy has been charged after a teacher was stabbed in a corridor at a school.,charged,16.953125,10000.0
+The local government elections in Northern Ireland are,Nominations,12.28125,10000.0
+The current Prime Minister of Greece is,Mitsotakis,9.0859375,8830.240235797572
+The US President spoke of threats to democracy during a speech,Biden,9.59375,10000.0
+The band member who spoke out against the show in Dubai is,Watkins,10.3671875,10000.0
+The UK will offer,water cremation,9.7734375,10000.0
+The prime suspect in the disappearance of Madeleine McCann is,Brueckner,9.5703125,10000.0
+"Erin Harvey, a mum who lost her youngest son in a caravan fire, has been diagnosed with terminal cancer and has been given months to live",Harvey,13.578125,10000.0
+"Aimee, a 24-year-old woman, participated in a study",Aimee,11.2421875,10000.0
+The programme for new and expectant dads is run by,Dads By Dads,5.43359375,228.97063181940615
+A five-month-old baby was taken to hospital after a dog attack,dog attack,11.1875,10000.0
+Researchers in Cambridge are developing,gene-edited potatoes,7.2734375,1441.4970923843368
+The strike is being led by teachers from,St Mark's High School,6.63671875,762.5886393094895
+The former Prime Minister of the UK has not handed over any messages from before April 2021,Johnson,12.6171875,10000.0
+A million people are without power across Ukraine after Russian missiles targeted energy infrastructure,Ukraine,10.2265625,10000.0
+The Women's Ashes were retained by,Australia,2.72265625,15.220698576992893
+The US Secretary of State has met with China's President,Blinken Xi,9.265625,10000.0
+The NHS Confederation warns that,could be postponed,9.9921875,10000.0
+The IDF's drone operators mistook an aid worker carrying a bag for a gunman,Har-Even,12.9765625,10000.0
+The house in south east London has sold for,£1.5m,0.51806640625,1.6787784338921328
+The government's expenditure on Queen Elizabeth II's funeral and events during the national mourning period was,£162m,0.75,2.117000016612675
+The current Prime Minister of the UK is,Sunak,7.58984375,1978.0044264076564
+Director Shekhar Kapur has said Hollywood's push for more diverse casts has come from its guilt over,ethnic minority actors,7.76953125,2367.3613276063093
+The mother of the teenager who died in the accident said,Frendo,12.5859375,10000.0
+"Emma, a woman from north Wales, has been on long-term sick leave and has lost her self-esteem and confidence",Emma,13.0390625,10000.0
+The state governor of Alaska has declared,a disaster declaration,0.297119140625,1.3459756502759677
+The head of the UK's second largest union is,Graham,13.4921875,10000.0
+"A large tree has fallen in Killyleagh, County Down",Killyleagh,13.1640625,10000.0
+The current Welsh Labour leader is,Drakeford,15.2734375,10000.0
+The UK's largest ever crackdown on organised crime was carried out by,Dorset Police,10.5625,10000.0
+Storm Noa caused,power outages and blocked roads,4.828125,124.97641006343288
+The ECB chief executive is,Gould,8.8125,6717.692523019596
+The longest battle of the war that Russia launched last year is for the city of,Bakhmut,5.078125,160.47288700783744
+Police have charged 24 people after animal rights protesters tried to disrupt the Scottish Grand National,Scottish Grand National,13.640625,10000.0
+The home of the former first minister was searched for two days at the start of March,Sturgeon,12.5546875,10000.0
+The Iranian TV host who was stabbed in London is,Zeraati,6.7265625,834.2745126010524
+The latest on this story can be found at,BBC Action Line,4.3984375,81.32370105824417
+Eleanor Williams was found guilty of,eight counts of perverting the course of justice,4.6171875,101.20898120494374
+The former Prime Minister of the UK is,Johnson,13.25,10000.0
+The Prime Minister of the UK has spoken to leaders at the England and Wales Cricket Board,Sunak,13.484375,10000.0
+The publisher of the Mirror newspapers has made a court apology to the former Coronation Street actor,Sanderson,7.65625,2113.8157381974315
+The final goal of the match was scored by,Sarmiento,5.671875,290.5788592888401
+The EU has suspended all security cooperation with Niger after the country's army took power in a coup,Niger,13.3359375,10000.0
+The Bank of England is,raising rates,4.07421875,58.80452160545304
+The water company that has defaulted on its debt is,Thames Water,7.08203125,1190.3840319876622
+The new leader of the SNP is,Yousaf,8.5703125,5272.7772756597515
+The artwork has been unveiled in a park in east Belfast,Orangefield Park,16.046875,10000.0
+The mayor of a small town in Mexico has,Sosa,12.8125,10000.0
+The actor who plays Willy Wonka in the movie is,Chalamet,13.78125,10000.0
+The Orkney councillors have voted to,investigate alternative methods of governance,5.46484375,236.23893989057657
+Chinese authorities have warned of,natural disasters,9.78125,10000.0
+The former Prime Minister of the UK has not handed over any messages from before April 2021,Johnson,12.6171875,10000.0
+A missing 17-year-old boy was found dead in a quarry,Burwell,15.515625,10000.0
+A 17-year-old boy was pulled from the water near Bournemouth Pier,Abbess,14.6796875,10000.0
+The UK Health and Security Agency has stated that,UKHSA,6.61328125,744.923292506519
+The previous title-holder of the world's oldest man is,Pérez Mora,15.8671875,10000.0
+The first Coronation in 70 years was,"a sumptuous, seamless and often surreal ceremony",1.73828125,5.687559524110652
+The former President of the United States is,Trump,9.3359375,10000.0
+The accused man in the fire case is,Allen,10.296875,10000.0
+The commemorations of Victory Day in Berlin were attended by,Russian communities,2.607421875,13.564035954639001
+A woman has been arrested on suspicion of causing death by dangerous driving,woman,16.203125,10000.0
+Reality TV contestant Stephen Bear has been jailed for,21 months,2.5546875,12.867278004795136
+The oil and gas company has reported a profit of,$9.6bn,1.0830078125,2.9535499285563844
+The Broadcasting Press Guild has announced,award,7.68359375,2172.4128689866334
+A Romanian man has pleaded guilty to the manslaughter of,39 Vietnamese migrants,3.486328125,32.66578255521719
+A selection of pictures of Scotland sent in between 16 and 23 June,Scotland,10.2578125,10000.0
+The current Prime Minister of the UK is,Sunak,7.58984375,1978.0044264076564
+The Australian police have stopped a major drug bust involving,cocaine,3.30078125,27.133828946090556
+The Russian President has visited,Putin,8.9296875,7552.904724691445
+The current Premier League club is,Manchester United,3.923828125,50.5937537501147
+The political party that has been protesting against post-Brexit trade arrangements is,DUP,8.25,3827.6258214399063
+Police in major US cities are preparing for potential unrest in case ex-President is arrested,Trump,7.8359375,2529.90618498386
+The comedy festival in Melbourne has decided to rename its award,Barry Award,13.0078125,10000.0
+The Emmy-award winning actor was charged with,involuntary manslaughter,6.55078125,699.7906717746478
+The song Nothing Compares 2 U was recorded by,O'Connor,9.5390625,10000.0
+The actor Hugh Grant is,Grant,13.046875,10000.0
+The US superstar singer will be performing in Cardiff next June,Swift,17.0,10000.0
+The Swedish climate activist arrested by Dutch police is,Thunberg,9.7109375,10000.0
+The brother of television presenter Phillip Schofield has been found guilty of,sexual offences,3.994140625,54.27917440928786
+The mother of Gogglebox star George Gilbey is,McGarry,16.875,10000.0
+Shares in regional banks in the US have dropped sharply,US,12.4375,10000.0
+Police have arrested a group of protesters in Piccadilly,Piccadilly,13.7109375,10000.0
+The American pop star who entered the Forbes World's Billionaires List for the first time is,Swift,10.328125,10000.0
+The care home industry in Scotland is facing,closures,9.40625,10000.0
+The UK Prime Minister has announced,Sunak,11.640625,10000.0
+The number of people living with major illnesses in England will rise,nine times faster than the healthy working age population,9.109375,9039.643348424153
+The family of a teenager who fell ill on holiday in Spain has booked a medical flight,Duthie,15.4609375,10000.0
+The UK has evacuated,536 people,2.341796875,10.399907116482579
+The film 'Barbenheimer' has had a successful opening weekend with,£30m,4.51953125,91.79256012938836
+Protesters in Tehran have condemned the strike on their consulate in Damascus,Razavi,18.71875,10000.0
+People use boats on Chidorigafuchi to view,cherry blossoms,2.734375,15.400115355370453
+The manager of Leicester City has been sacked,Rodgers,17.953125,10000.0
+"The Pope's puffa jacket, a student avoiding a parking ticket, a dry government document and Elon Musk warning the robots might come for us are all examples of",AI,5.75,314.1906602856942
+"The siblings who died in the crash in Strabane, County Tyrone, are",McKane,11.140625,10000.0
+The late soul star behind hits like The Best and What's Love Got to Do With It is,Turner,12.3828125,10000.0
+The President of Ukraine has condemned the shelling in Slovyansk,Zelensky,15.4765625,10000.0
+The comedian known for his prank interviews and spoof character is,Ali G,11.796875,10000.0
+The trust that carried out the Caesareans is,East Kent Hospitals University NHS Trust,9.484375,10000.0
+The Danish far-right politician who threatened to burn a copy of the Quran in Wakefield is,Paludan,13.7734375,10000.0
+The current Prime Minister of the UK is,Sunak,7.58984375,1978.0044264076564
+The whales stranded on Lewis will be moved to a landfill in Stornoway for post-mortem examinations,Stornoway,11.359375,10000.0
+"The actor who played Fezco 'Fez' O'Neill on Euphoria has died, aged 25.",Cloud,14.9296875,10000.0
+The royal couple met,Charles and Camilla,7.48046875,1773.0717085305068
+A humpback whale has been rescued off Australia's Gold Coast,whale,9.703125,10000.0
+Kyogo Furuhashi's performance against Rangers,Furuhashi,12.8359375,10000.0
+The guitarist of Irish rock band The Script is,Sheehan,12.4296875,10000.0
+Three people have been arrested by detectives investigating the murder of a woman outside a Merseyside pub on Christmas Eve,Edwards,19.5,10000.0
+British Airways is cancelling,flights a day,1.6396484375,5.153357466495365
+The Welsh rugby legend JPR Williams has called on the sport's chiefs to pay more attention to the links between concussion and the impact on players,Williams,19.078125,10000.0
+The government has announced a ban on fees for disposing of DIY waste in England,DIY waste,15.5625,10000.0
+The university that apologised for failing Romy is,University of Edinburgh,12.0078125,10000.0
+The tennis player who will play Casper Ruud first on Centre Court is,Broady,9.640625,10000.0
+The missing British rugby player was last seen in Barcelona,Davis,17.390625,10000.0
+The current Premier of Alberta is,Smith,12.0078125,10000.0
+A 13-year-old boy died after being hit by a car in Glasgow,Lushaku,11.8515625,10000.0
+"The closing speeches of the Agreement 25 conference hailed the renewal of relationships between London, Dublin and Brussels.",Sunak,11.3359375,10000.0
+"The price of milk has been reduced by at least 5p by Aldi, Lidl, Asda, Sainsbury's, and Tesco",milk,8.6171875,5525.823140529194
+The Duke of Sussex has blamed alleged illegal intrusion into his private life by journalists for the break-up of his relationship with,Davy,10.3046875,10000.0
+The singer is,Pink,9.359375,10000.0
+The owner and chairman of Millwall is,Berylson,9.5078125,10000.0
+A US policeman who saved a driver from a fiery crash has been hailed a hero.,Ashley Taylor,10.1875,10000.0
+The British-born pensioner with Alzheimer's is,Poole,13.859375,10000.0
+The US Supreme Court has struck down,student debt,12.5078125,10000.0
+The former BBC Radio 1 DJ has been questioned under caution for alleged sex offences,Westwood,15.96875,10000.0
+The actor who was found not guilty of causing grievous bodily harm is,Tompkinson,9.65625,10000.0
+The Mayor of Amory is,Glenn,11.4921875,10000.0
+The French striker who has signed for Chelsea is,Nkunku,7.90234375,2703.611497823697
+The BBC presenter who tweeted about the government's asylum policy is,Lineker,18.265625,10000.0
+"The local authority in Llanelli, Carmarthenshire, is",Carmarthenshire,13.359375,10000.0
+The football club that won the Europa Conference League final is,West Ham,5.7734375,321.64147707721304
+The former NHS chief executive is,Gilby,18.046875,10000.0
+The US President is,Biden,10.53125,10000.0
+The Health Secretary of the UK is,Barclay,10.359375,10000.0
+The UK Prime Minister has urged all sides in Russia to,Sunak,16.765625,10000.0
+The 17-year-old boy who was stabbed and later pronounced dead at the scene of a birthday party in north-west London has yet to be formally identified,has yet to be formally identified,10.53125,10000.0
+The National League promotion final was won by,Notts County,4.8828125,132.00139622598326
+The actor and former governor of California is,Schwarzenegger,17.390625,10000.0
+The Lisburn man who has broken the world record for the longest drumming marathon is,Brown,16.65625,10000.0
+"The killing of foreign aid workers in Gaza might finally exhaust the considerable patience of Israel's allies, led by the United States.",Israel's allies,4.96875,143.8469662358426
+The former president is,Trump,10.0,10000.0
+The chair of a major review into women's football is,Carney,11.40625,10000.0
+The remains of British World War Two aircraft were found in a forest outside Kyiv,Hurricane,12.46875,10000.0
+The founder of Help for Heroes is,Parry,13.2109375,10000.0
+"A man has been rescued after falling into a well in Bordon, Hampshire",man,14.546875,10000.0
+The Swedish Space Corporation is conducting experiments in,zero gravity,3.513671875,33.57131140436464
+The director of the National Human Genome Research Institute is,Green,17.0,10000.0
+The Grenfell Tower fire occurred in,June 2017,0.89794921875,2.4545641718612847
+GPs in England may start offering weight-loss jabs to some patients to reduce obesity-related illnesses and resultant pressure on hospitals.,Mitsotakis,11.7265625,10000.0
+A teenage boy is being questioned on suspicion of the attempted murder of a teacher who was stabbed at a school,Murder,16.4375,10000.0
+The ex-health secretary is,Hancock,15.1796875,10000.0
+The government is considering reclassifying a dangerous street drug from Class B to A,monkey dust,19.078125,10000.0
+The Brazilian forward scored twice in the Copa del Rey final,Rodrygo,16.296875,10000.0
+The Greek islands of Rhodes and Corfu are experiencing,fires,7.93359375,2789.433339318374
+The child killer who murdered a seven-year-old girl in 1992 has been jailed for at least 29 years.,Boyd,12.171875,10000.0
+The BBC has ended live coverage of the sentencing of Stephen Boden and Shannon Marsden,Boden,6.33984375,566.7077563764824
+"The young son of the murdered soldier raised more than £50,000 for the charity",Rigby,6.765625,867.5082310343188
+The UK Chancellor has expressed concerns about pay rises,Hunt,12.25,10000.0
+The weather conditions in Spain include,"hail storms, heavy rain and flash flooding",5.73046875,308.1136628117644
+A truck carrying live salmon crashed in Oregon,salmon,12.0859375,10000.0
+The archaeologists believe the raised platform in the mausoleum was for,burials,6.390625,596.2291064528091
+The new head of the probation service in England and Wales is,Kim Thornden-Edwards,12.3359375,10000.0
+The artist who won a fan poll with more than one million votes is,Michael,7.06640625,1171.9288381599856
+The chief executive of NatWest is,Rose,13.9453125,10000.0
+People have used the relative lull in fighting to go outside their homes,outside their homes,8.9765625,7915.3761905655465
+The UK government has changed its policy to allow,NHS doctors in Sudan to catch evacuation flights,5.44140625,230.76647074218755
+The parents of the missing student Jack O'Sullivan are,O'Sullivan,11.6796875,10000.0
+The chancellor has praised a Tory MP for apologising after he admitted he gave other MPs' personal phone numbers to someone on a dating app.,Wragg,11.5078125,10000.0
+The headlining act for the Pyramid Stage on Sunday night at Glastonbury is,Sir Elton John,4.921875,137.25973406168575
+A young girl has died after being pulled from the sea at Cleethorpes beach,girl,16.328125,10000.0
+The owner of British Airways has,posted record half-year profits,6.98828125,1083.8569951461084
+The US President is visiting,Biden,5.64453125,282.74099031586354
+Dominic Calvert-Lewin scored a late penalty for Everton,Calvert-Lewin,14.1640625,10000.0
+The Brazilian President has pledged to end deforestation by,2030,0.1060791015625,1.1119098268326424
+The head of Ukraine's military intelligence has warned of a swift response to a series of Russian missile strikes on Kyiv,Budanov,17.21875,10000.0
+Harvey Borrington died from head injuries including a fractured skull and a bleed on the brain,Borrington,12.03125,10000.0
+The Israeli Prime Minister is,Netanyahu,10.625,10000.0
+The RMT union is,rejecting the latest pay deal,6.00390625,405.0077691463688
+A 16-year-old boy has been charged with,two counts of attempted murder,4.93359375,138.8777083722429
+The current Prime Minister of the UK is,Sunak,7.58984375,1978.0044264076564
+The President of France has,Macron,15.1015625,10000.0
+The top court in Florida has,upheld the state's 15-week ban on abortion,2.873046875,17.690837939037834
+The South African deputy minister is,Bapela,10.6015625,10000.0
+Prof Kathleen Stock is due to speak at the Oxford Union on,30 May,1.5400390625,4.664772485104432
+The National Grid ESO has announced,ESO,8.7265625,6164.501175517202
+A member of Wimbledon security was booed,security,15.2421875,10000.0
+The independent council advising on drug misuse has,ACMD,16.59375,10000.0
+The Stradey Park Hotel in Llanelli is set to house,asylum seekers,6.609375,742.0191118159325
+The Welsh Rugby Union was informed about,unfavourable treatment of female rugby players,9.453125,10000.0
+The impact of the earthquake in Taiwan,Taiwan,11.5546875,10000.0
+The US Army Colonel is,Pinchasin,13.859375,10000.0
+Healthcare workers are,care,10.265625,10000.0
+The Human Fertilisation and Embryology Authority reported a dramatic increase in the number of women freezing their eggs,HFEA,14.5078125,10000.0
+The UK's Competition and Markets Authority has,recommended,4.54296875,93.96935796203766
+A senior Conservative MP has been criticised for saying Afghanistan has been,transformed,5.83984375,343.72562933929424
+The drill rapper who was jailed for firearm offences is,Rack5,10.4765625,10000.0
+The military of Israel has announced a reduction in the number of soldiers in southern Gaza,Khan Younis,13.9921875,10000.0
+Passengers flying into the UK faced hours of delays at airports across the country where passport e-gates were not working.,UK,9.09375,8899.49666832322
+A significant percentage of UK school pupils face challenges in accessing free period products,difficulty accessing,19.328125,10000.0
+The BBC News programme that explores financial choices is,My Money,10.7734375,10000.0
+The campaign group is,calling for,0.7041015625,2.0220292017361423
+The Love Island star who left the villa as a finalist in 2019 is,Hague,8.9765625,7915.3761905655465
+The coastguard team rescued a dog from a cliff,dog,13.65625,10000.0
+A fire spread through three floors in a five-storey block of flats in south London,"Whitehorse Road, Croydon",14.84375,10000.0
+The late Queen of the United Kingdom is,Elizabeth II,8.9921875,8040.025228168563
+The governor of the Bank of England has emphasized the importance of persisting with measures to tackle inflation,Bailey,18.859375,10000.0
+The former president of the United States is,Trump,10.1875,10000.0
+Alex Mackintosh visited,the Highland Folk Museum,1.1044921875,3.0176916581041593
+The man wanted in connection with the fatal stabbing is,Masum,12.203125,10000.0
+The BBC's director general who took over in 2020 is,Davie,9.734375,10000.0
+The organization that was providing meals to Palestinians in the Gaza Strip is,World Central Kitchen,10.4375,10000.0
+A man was fatally stabbed in London,stabbed,11.1796875,10000.0
+The UK's Prime Minister is,Sunak,13.3671875,10000.0
+"The UK has reported its first death linked to the 'zombie' drug xylazine, which is also causing overdose warnings in the US.",xylazine,10.5703125,10000.0
+The United Nations has warned we now live in the era of,climate change,2.078125,7.9894745966477085
+The current monarch of the UK is,Charles,2.146484375,8.554730245048765
+The Russian defence ministry has reported,an attack on Moscow,3.796875,44.5617113320772
+The teenager who helped jail her paternal grandfather after he sexually abused her as a small child is,Poppy,13.2578125,10000.0
+A teenager was found with a gunshot injury on Norman Road,McDermott,15.0703125,10000.0
+The singer who could not finish the song is,Thornton,11.171875,10000.0
+The tragic event occurred in,Belgrade,7.78125,2395.2670338067314
+Melody Powell is,Powell,14.046875,10000.0
+The BBC News presenter who joined the BBC in 1984 is,Edwards,14.453125,10000.0
+Protesters in Paris have attacked one of French President's favourite restaurants,Macron,9.4765625,10000.0
+Russia's withdrawal from the grain deal,grain deal,11.2890625,10000.0
+The stepfather of a five-year-old girl has pleaded guilty to her murder.,Abdul Wahab,11.8046875,10000.0
+The UK Prime Minister has said that China,represents a challenge to the world order,8.125,3377.8679316735347
+The Secretary of State for Northern Ireland is,Heaton-Harris,9.0703125,8693.340050044506
+The landlord of the pub is,Ryley,7.71484375,2241.3726559431707
+The US's second-largest bank has been ordered to pay out,$150m,1.267578125,3.5522390571826796
+"Senior civil servant Sue Gray, who investigated lockdown gatherings in Downing Street, has been offered a job as",Starmer's chief of staff,12.734375,10000.0
+Frontline staff vacancies account for,75%,1.27734375,3.5870988284120546
+"The debate was focused on policy rather than personality, as summarized by Humza Yousaf's statement",Yousaf,11.203125,10000.0
+The President of Ukraine is,Zelensky,8.5703125,5272.7772756597515
+The Irish Family History Centre was asked to trace the ancestry of,Biden,5.94140625,380.4695888770434
+The BBC chairman has resigned,Sharp,15.28125,10000.0
+The NHS in England has,reached record levels,5.55078125,257.43860126944566
+The newly formed business council is,The Business Council,10.5703125,10000.0
+"A safety investigation has warned that young people with complex mental health needs are being put at significant risk, by being placed on general children's wards in England.",HSIB,10.0703125,10000.0
+The Ukrainian soldier who was killed in Bakhmut was,Kuzin,5.8125,334.45421691786504
+More than a quarter of patients on antidepressants in England have been taking them for five years,England,17.90625,10000.0
+The Irish delegation raised concerns at a meeting of the British Irish Intergovernmental Conference,Irish,12.59375,10000.0
+The hacker who stole music from Ed Sheeran and sold it online is,Kwiatkowski,10.28125,10000.0
+Caerphilly councillor Philippa Leonard expressed concern about,unlicensed breeders,7.34375,1546.5006307786239
+The city council of Edinburgh wants to introduce a licensing scheme,Edinburgh,16.875,10000.0
+The UK is sending 14 Challenger 2 tanks to Kyiv to aid Ukrainians in the fight against Russia,Mitsotakis,12.25,10000.0
+The distributor of the new Winnie the Pooh horror movie has apologised for not releasing it in Hong Kong and Macau,VII Pillars Entertainment,20.140625,10000.0
+The Labour Party has ruled out introducing a self-ID system,Labour,12.953125,10000.0
+The UK's largest airport is facing potential security delays due to strike action over pay,Heathrow,14.109375,10000.0
+The last remnant of the 1958 British Empire and Commonwealth Games in Cardiff is,the velodrome at Maindy,3.4140625,30.388446900124176
+The Premier League champion and FA Cup winner is,City,11.6484375,10000.0
+The communications regulator in the UK is,Ofcom,12.6640625,10000.0
+The former Court of Appeal judge is,Hallett,18.078125,10000.0
+A multi-million pound fraudster has pleaded guilty to a sophisticated banking scam called iSpoof which stole £100m from victims worldwide.,iSpoof,13.546875,10000.0
+The current Prime Minister of the UK is,Sunak,7.58984375,1978.0044264076564
+The current chairman of Tesco is,Allan,9.3125,10000.0
+A man has been sentenced to,17 months in prison,1.947265625,7.009494765121929
+The Iraqi Culture Minister is,Badrani,14.4921875,10000.0
+"The Acropolis, Greece's most popular tourist attraction, was closed during the hottest hours of the day to protect visitors",Acropolis,17.21875,10000.0
+Germany's three remaining nuclear power plants were,shut down,1.30859375,3.7009655682618923
+"More than a quarter of patients on antidepressants in England have been taking them for five years, the BBC has found.",England,11.3515625,10000.0
+The stepfather of a five-year-old girl has pleaded guilty to her murder,Abdul Wahab,19.96875,10000.0
+The victim of the murder was a,Spanish teacher,6.30859375,549.27199171561
+The Wagner Group's leader is,Prigozhin,9.53125,10000.0
+The Canadian man accused of distributing a dangerous product linked to suicides is,Law,16.671875,10000.0
+The chairman of Northern Ireland's Police Federation has said,Caldwell,6.84765625,941.6712762187423
+US actress Melissa Joan Hart has said she helped children flee after the Nashville school shooting,Hart,15.21875,10000.0
+A 15-year-old boy named as Shamseddin died in hospital on Friday,Shamseddin,12.59375,10000.0
+The close associate of the head of the Wagner group is,Malkevich,9.9765625,10000.0
+Israel has carried out air strikes on Gaza in response to rocket fire from Palestinian militants,Israel,12.9765625,10000.0
+The woman who was ordered to repaint her door in Edinburgh is,Miranda Dickson,16.40625,10000.0
+The latest story involves the discovery of a baby's remains in a wooded area,remains,14.15625,10000.0
+The Wagner Group's leader has,Prigozhin,15.4453125,10000.0
+The senior World Bank official is,Anna Bjerde,12.328125,10000.0
+The former US army captain and retired optometrist is,Sanderson,13.21875,10000.0
+"The 2021 US Open champion, ranked 77th, is",Raducanu,12.8203125,10000.0
+The strike at Heathrow Airport's Terminal Five is,to strike for 10 days from 31 March,4.3203125,75.21212841006654
+SNP MP Mhairi Black is stepping down at the next general election,Black,12.5,10000.0
+The UK Prime Minister is,Sunak,13.4453125,10000.0
+The arrivals at Stansted Airport were,relieved,8.9375,7612.142890638241
+The Platinum Jubilee will feature,Prince Harry,6.30859375,549.27199171561
+The pro-democracy campaigner who fled Hong Kong is,Law,15.015625,10000.0
+The user is advised to,enable JavaScript,7.48046875,1773.0717085305068
+A man who hosted a family fleeing the war in Ukraine has driven a mother and her two daughters,Voichenko,20.40625,10000.0
+Mahek Bukhari and her mother are on trial with six others,Bukhari,11.53125,10000.0
+The SNP chief executive has resigned,Murrell,17.328125,10000.0
+The leader of one of the UK's largest business groups has been fired,Danker,15.625,10000.0
+The new social network app launched by Meta is,Threads,11.8984375,10000.0
+Ireland's Eurovision act has,cut ties,7.16796875,1297.2069732040436
+The president of the SNP has,Russell,16.40625,10000.0
+The parents of student Barnaby Webber who was stabbed to death in Nottingham on Tuesday have described him as,a lovely soul,0.82958984375,2.292378314123635
+President Zelensky shared a video of the dam collapse on,Zelensky,10.5625,10000.0
+Zak Crawley scored an astonishing,189,0.1610107421875,1.1746975875678365
+The UK Defence Secretary's remarks were,Wallace,14.9296875,10000.0
+The CEO of Virgin Galactic is,Branson,10.296875,10000.0
+"The shooter who killed six people at a school in Nashville, Tennessee, on Monday bought seven guns legally and hid them at home, police say.",Mitsotakis,9.9609375,10000.0
+The Prime Minister of the UK has announced,Sunak,11.4296875,10000.0
+The Met Office has issued a yellow weather warning for wind,Met Office,15.046875,10000.0
+The Duchess of Sussex has won her bid to throw out a US defamation case brought by her half-sister,Markle,9.7421875,10000.0
+The current Premier League team is,United,8.046875,3124.0171478093453
+A member of the archaeology team is,examining skeletal remains,3.9765625,53.333385249853684
+The US Secretary of State is visiting China,Blinken,12.9609375,10000.0
+The barrister who led a review into how domestic killers are sentenced is,Clare Wade,14.8203125,10000.0
+A former Met Police officer who carried out an investigation into Wayne Couzens has been found guilty of gross misconduct,Lee,18.828125,10000.0
+The Eurovision Song Contest was held in,Liverpool,4.09765625,60.199030648454944
+The 72-year-old farmer's situation,Cao,12.3984375,10000.0
+The WHO has declared that Covid-19 no longer represents a,global health emergency,0.424560546875,1.5289183840483784
+The White House official's response to the issue of Biden's age,Biden,11.5703125,10000.0
+"The SAS troops conducted night raids in Afghanistan, aiming to kill or capture Taliban targets",Mitsotakis,11.0625,10000.0
+Shareholders in Credit Suisse have told the firm they feel,failed and cheated,7.9453125,2822.314296832108
+The father of the 19-year-old who was shot at a party in Alabama is,Martin Collins,13.9375,10000.0
+The Proclaimers' song was removed from,coronation playlist,10.4765625,10000.0
+Adam Peaty wins the 100m breaststroke at the Aquatics GB Swimming Championships,Peaty,13.1796875,10000.0
+The former prime minister of the UK is,Johnson,14.078125,10000.0
+"David Lawson, a health expert, has commented on the findings of a study",Lawson,15.7265625,10000.0
+The Los Angeles Police Department and FBI are jointly investigating the,theft,4.5625,95.82273747708687
+The age of criminal responsibility in Serbia is,14 years old,0.54541015625,1.7253158863669429
+The family of the Rust cinematographer who died on set is,Hutchins,12.578125,10000.0
+Twitter's CEO is,Musk,12.2890625,10000.0
+"Meta is developing a standalone, text-based social network app",Meta,11.390625,10000.0
+The suspect in the shooting was,Lester,7.53125,1865.4358415938036
+The main stage at Scotland's biggest festival was headlined by,Sam Fender,5.21875,184.70316076024525
+A man from Wiltshire has been arrested for,possessing a class A drug and assaulting an emergency worker,5.91796875,371.6560203434465
+The review of the Metropolitan Police was conducted by,Casey,13.2734375,10000.0
+The government has announced that travellers flying into England from mainland China will no longer have to provide proof of a negative pre-departure test from next month.,England,11.0078125,10000.0
+The police in Michigan used a,cowboy,9.8046875,10000.0
+The Acropolis is located in,Greece,3.66015625,38.867415430562446
+The UK's last opencast coal mine has closed,Ffos-y-Fran,12.9140625,10000.0
+The soundtrack of the movie featuring Barbie has,conquered the UK music charts,12.0625,10000.0
+The Nepalese men guarding the UK embassy in Kabul are,Nepalese military veterans,10.96875,10000.0
+Ukrainian President Volodymyr Zelensky says an alleged Russian agent involved in the deadly attack in Kramatorsk will be charged with treason,Zelensky,13.40625,10000.0
+Thousands welcome the summer solstice at Stonehenge in Wiltshire,summer solstice,13.3515625,10000.0
+The managing director of Currys has said,Baldock,14.09375,10000.0
+The emergency alert test message in Welsh was intended to say,eraill yn ddiogel,15.90625,10000.0
+The Lord Chancellor has asked the Parole Board to reconsider its decision to allow,Pitchfork,6.96484375,1058.7494748958482
+The French President has awarded the highest honour to an AFP video journalist killed in Ukraine,Macron,15.7265625,10000.0
+Conservative MP Bob Stewart has been charged with,racially abusing a man,5.6953125,297.46973835596765
+The tropical storm that hit Malawi caused devastation in,Blantyre,5.17578125,176.93479059943397
+Gary Lineker is not presenting,FA Cup quarter-final coverage,11.390625,10000.0
+A police officer has appeared in court charged with the rape of a woman while on duty,Sgt David Stansbury,12.59375,10000.0
+A woman from Falkirk has died while undergoing gastric band surgery in Turkey.,Shannon Bowe,13.0703125,10000.0
+The Secret Garden Party is scheduled to take place from,20-23 July,0.474853515625,1.6077786657823514
+A man has been sentenced to a whole-life prison term for murdering Met Police sergeant,Ratana,10.8125,10000.0
+The older brother of Chloe Mitchell has said,Mitchell,10.4453125,10000.0
+The leader of the conservative party in Spain is,Feijóo,16.40625,10000.0
+The actors are joining,screenwriters,9.265625,10000.0
+"The pop singer, whose real name is",Grimes,7.65234375,2105.574751625949
+The leader of Cambodia is,Hun Sen,10.3671875,10000.0
+The more relaxed nature of Sunday's events comes after,King Charles and Queen Camilla were crowned,7.7734375,2376.626917866444
+The Electoral Commission reported that,prevented from voting,12.375,10000.0
+"Owain Emanuel is a professional designer in Melbourne, Australia",Emanuel,10.734375,10000.0
+The ongoing battle for Bakhmut has resulted in heavy losses for both Ukraine and Russia.,Bakhmut,5.8828125,358.8169966923127
+Amy Jones scored a,unbeaten 92,10.765625,10000.0
+The Republican politician who tried to stall the bill is,Roy,9.09375,8899.49666832322
+A law enforcement agency in Wisconsin responded to an unusual incident involving a bobcat,Sheriff's office,14.9140625,10000.0
+"A large funnel cloud caused destruction in the city of Greenwood, Indiana",funnel cloud,14.71875,10000.0
+The oldest ship in Scotland is,Unicorn,11.171875,10000.0
+The BBC Radio 1 DJ and former newsreader are known for writing,James and Smith,10.4765625,10000.0
+The Prime Minister of the United Kingdom is,Johnson,8.7890625,6562.077343330692
+The new augmented reality headset by Apple is,Vision Pro,10.7578125,10000.0
+"David Boyd, a convicted child abuser, has been found guilty of murdering a seven-year-old girl",Boyd,14.515625,10000.0
+The owner and chairman of Millwall is,Berylson,9.5078125,10000.0
+The former independent member of the health board described the actions of the Health Minister as,Micklewright,11.59375,10000.0
+The withdrawal of support will add hundreds of pounds to some household bills,bills,11.4453125,10000.0
+The national cancer director for England has stated that the NHS is set to miss a key cancer treatment target,Dame Cally Palmer,15.7109375,10000.0
+A woman who lost her job after tweeting gender-critical views is to receive a payout,Forstater,16.375,10000.0
+The jury in a civil case has found former President Donald Trump,Trump,18.359375,10000.0
+The community representative is,Tsifidaris,10.3671875,10000.0
+The UK Prime Minister is,Sunak,13.4453125,10000.0
+The Prince of Wales has met a road crash survivor who he helped save while working as an air ambulance pilot.,William,9.6953125,10000.0
+The former Prime Minister of the UK is,May,12.59375,10000.0
+Junior doctors in Scotland have voted,in favour of a three-day strike,2.76953125,15.951155153095918
+The Ukrainian air force has shot down a drone,Ukrainian,11.2109375,10000.0
+The number of teams competing in the Women's World Cup is,32,4.55859375,95.44916002730179
+"A major blaze near Mudgee, New South Wales, has burned more than 2,000 hectares since Sunday",Mudgee,12.5234375,10000.0
+"The Nikolay Zubov LNG tanker, docking in the UK in 2021",Zubov,11.03125,10000.0
+Katie Boulter won her first WTA title with a dominant victory in Nottingham over Jodie Burrage in the first all-British tour-level final in 46 years.,Boulter,4.06640625,58.34690118774256
+The humanitarian situation in Gaza is,worsening,2.92578125,18.648789727196185
+Police were called to an address in Hopyard Close in Leicester,Sinski,15.6015625,10000.0
+The great-nephew of Dracula author Bram Stoker is visiting Scotland to research an almost-forgotten writer credited with inspiring the story,Dacre Stoker,7.67578125,2155.507017915938
+People in Ullapool are facing a 100-mile round trip for dental care,Ullapool,13.640625,10000.0
+The Ireland women's rugby team has chosen to swap their traditional white shorts and make a permanent switch to navy because of period concerns.,Ireland women's rugby team,8.609375,5482.820843686621
+The current vacancy rate for physiotherapy positions in Northern Ireland is,12%,0.99560546875,2.706362463211237
+The government's plan to expand funded childcare for working parents will not work unless the amount paid to providers is right,will not work,11.9140625,10000.0
+European flights during the summer holiday period could be affected by,strike action by air traffic managers,5.4765625,239.02364975839862
+The fourth Test of the Ashes series between England and Australia was played at,Old Trafford,2.72265625,15.220698576992893
+Counter-terror police are involved in an investigation into a man being set alight as he walked home from a mosque,North,13.2265625,10000.0
+The woman who may only have months to live has told the BBC,Mills-Murray,11.421875,10000.0
+The UK has faced criticism from its citizens for,abandoning foreign nationals in Sudan,6.49609375,662.5484915670792
+The government is,scaling back Covid testing in England,9.8046875,10000.0
+A Chinese-registered bulk carrier was detained by Malaysia for,anchoring illegally,4.96484375,143.28616006164455
+The NHS chief executive has warned that July's planned strikes could be the worst yet for patients,Pritchard,14.734375,10000.0
+The former teacher and college president is,McEntee,11.7734375,10000.0
+The former president of the United States is,Trump,10.1875,10000.0
+The ruins of the village have been preserved,Oradour-sur-Glane,14.828125,10000.0
+The Turkish President is,Erdogan,9.1171875,9110.542149917466
+"The US will support the delivery of advanced fighter jets to Ukraine by allowing Western allies to supply American-made F-16s, and by training Ukrainian pilots to use the jets.",F-16s,11.234375,10000.0
+The last of the Ukrainian refugees are due to leave the MS Victoria next month,MS Victoria,12.6640625,10000.0
+A manager at Brown's Food Company,assembled female workers,11.65625,10000.0
+"Songmi Park, now 21, is among the most recent North Korean escapees to make it to Seoul",Park,9.9140625,10000.0
+A man was told he had five minutes to evacuate his house before a missile destroyed it,Nabhan,10.3515625,10000.0
+An enforcement notice was issued to the opencast mine in Merthyr Tydfil,Ffos-y-Fran,10.9140625,10000.0
+The US President has said he still plans to visit Northern Ireland,Biden,12.640625,10000.0
+"The birthday girl at an Alabama party where four people were shot dead was saved by her brother, she has told the BBC.",Dowdell,14.7890625,10000.0
+"The owner of Facebook, Meta, has been fined",€1.2bn,1.9423828125,6.975352140316971
+The last surviving D-Day veteran who transported dynamite to Omaha beach is,Gaines,10.75,10000.0
+The Justice Secretary has announced new plans for,Raab,11.1171875,10000.0
+The youngest royal at the Coronation had his sister,Louis,6.890625,983.0156100192773
+The UK's Chief Veterinary Officer announced that,Dr Christine,9.40625,10000.0
+The judge apologises to the jury for the delay,Goss,13.34375,10000.0
+The UK Defence Secretary has,Wallace,17.53125,10000.0
+The interview was conducted by,Morgan,7.78125,2395.2670338067314
+"The CEO of the submersible company, a British billionaire explorer, a French diver and a father and son were all on board the Titan",Mitsotakis,11.953125,10000.0
+The US Pulitzer-Prize-winning author is,McCarthy,11.6484375,10000.0
+The Grand National race was delayed by animal rights activists,disruption,6.29296875,540.7563187908823
+The regional chief of Belgorod has agreed to meet the fighters,Gladkov,15.7421875,10000.0
+The UK government has yet to impose fines on,"companies linked to Abramovich, Gutseriev, and Deripaska",3.2578125,25.992616060150944
+"The fire on Sackville Close in King's Hedges, Cambridge, was caused by",an electric bike,1.86328125,6.44484927647148
+The SDLP leader has dismissed political naysayers and insisted his party is,here to stay,7.6328125,2064.849249361922
+The NI commissioner for older people is,Eddie Lynch,14.125,10000.0
+The judge apologises to the jury for the delay,Goss,13.34375,10000.0
+The parents of a 16-year-old girl who died following 'shocking' neglect have been jailed,Titford and Lloyd-Jones,21.515625,10000.0
+The Ukrainian mayor of Melitopol is,Fedorov,13.5390625,10000.0
+The head of Russia's Wagner mercenary group is,Prigozhin,11.28125,10000.0
+The equalities minister is,Badenoch,17.890625,10000.0
+The football club that won the Europa Conference League final is,West Ham,5.7734375,321.64147707721304
+The government's commitment to ending cross-Channel migrant boats is,unlawful,4.95703125,142.1710983175922
+The vase is believed to be from the,Ming Dynasty,3.369140625,29.053548433146837
+An avalanche at the Armancette glacier in the French Alps resulted in,deaths,6.0234375,412.9958316281291
+The daughter of the Duke and Duchess of Sussex has been christened,Lilibet Diana,4.92578125,137.7969534714142
+A man has pleaded guilty to being in charge of two dangerously out of control dogs which killed an 85-year-old woman,Darren Pritchard,15.4296875,10000.0
+Mexican authorities have found,bags containing human remains,5.33984375,208.48013272330223
+The walkout by British Medical Association members is,the biggest by doctors in the history of the NHS,1.7158203125,5.561235592832448
+A man has been charged after a protester ran onto the racecourse during the Epsom Derby on Saturday.,Newman,11.4765625,10000.0
+The mayor of Moscow said,Mitsotakis,9.671875,10000.0
+The current President of Turkey is,Erdogan,4.578125,97.33172602285453
+The 76-year-old singer is,John,9.9921875,10000.0
+The Met Office has issued a yellow thunderstorm alert for,England and Scotland,3.470703125,32.159346537604755
+Liam Holden was 19 when he was arrested and convicted of a soldier's murder,Holden,13.9765625,10000.0
+The Northern Ireland council elections have concluded with,counting of votes,8.5234375,5031.319224605391
+Hollywood star Kirsten Dunst has said she grew up at a time when there was,major pay disparity,9.421875,10000.0
+The current King of the United Kingdom is,Charles III,1.1123046875,3.0413597071177576
+The victim of a mistaken identity murder was,Kanda,7.57421875,1947.3383101792642
+The US Secretary of State who visited China is,Blinken,9.5,10000.0
+The BBC's correspondent who reported on the East Kent Hospitals NHS Trust is,Michael Buchanan,5.78125,324.16414244755515
+The study found,60 new diseases,4.54296875,93.96935796203766
+The ICC's chief prosecutor is,Khan,12.6015625,10000.0
+The singer of The Specials who passed away in December is,Hall,12.1328125,10000.0
+The US soldier who crossed the border from South Korea to the North without authorization is,King,12.03125,10000.0
+The Scottish captain of the national women's football team is,Corsie,8.53125,5070.780350360642
+The actress who plays a barrister in Prima Facie is,Comer,12.34375,10000.0
+The restoration of a 90-year old Clyde steamer has been boosted by a £1m anonymous donation,Queen Mary,15.1015625,10000.0
+Zlatan Ibrahimovic has retired from football at the age of 41,Ibrahimovic,9.859375,10000.0
+The senior Russian general who was reportedly killed in a missile strike in Ukraine is,Tsokov,8.5390625,5110.550973561067
+The decline in puffin numbers on Rathlin Island is,down by 40% since 1999,4.24609375,69.83209724580306
+The lawyer of PC Bettley-Smith stated that,Bettley-Smith,4.18359375,65.60118435636834
+The current British Prime Minister is,Sunak,8.96875,7853.778244357167
+A group of children from Uganda have reached the final of,Britain's Got Talent,5.94140625,380.4695888770434
+The former Italian Prime Minister is,Berlusconi,11.4453125,10000.0
+The Labour leader has asked councillors to focus on,easing living costs,7.2890625,1464.1973685237601
+The UK lifeboat charity has,RNLI,12.28125,10000.0
+The US government has leaked classified documents,US,9.9921875,10000.0
+A rare weather event called a 'snow tornado' was spotted by Michael Peterson,Peterson,13.796875,10000.0
+The BBC's director general has described,Davie,10.8203125,10000.0
+The first man to receive a genetically modified kidney transplant from a pig has been discharged from hospital,Slayman,13.421875,10000.0
+The union representing senior civil servants has said,FDA,9.96875,10000.0
+The RMT union is,RMT,13.9140625,10000.0
+Former US President Donald Trump is,Trump,11.0234375,10000.0
+"China is pressuring Uyghurs living abroad to spy on human rights campaigners by threatening families back home, researchers say.",China,8.3515625,4236.795567027318
+The number of red squirrels on Anglesey has increased from,"40 to 1,000",0.78369140625,2.1895398470526897
+Manchester City have been crowned Premier League champions for the third successive season,City,12.4296875,10000.0
+"The UN reports that more than 2,000 people have been displaced due to violence in a Palestinian refugee camp in Lebanon",Ein el-Hilweh,17.75,10000.0
+The body of a woman was recovered from the sea off Crete,Hanlon,18.546875,10000.0
+The horse trainer who worked with Harry Styles on his latest music video is,Cousins-Greenwood,10.28125,10000.0
+The current President of Iran is,Raisi,5.1640625,174.8734378511126
+A woman who was shot at a house has died,36-year-old woman,6.55859375,705.279198037542
+The official photographs from the Coronation of King Charles III and Queen Camilla have been released,Charles III,16.609375,10000.0
+The current Prime Minister of Greece is,Mitsotakis,9.0859375,8830.240235797572
+"Shanshan, a 24-year-old from Changsha City, China, met her Taiwanese boyfriend through online video games",Shanshan,10.75,10000.0
+"The Welsh government's new policy will not ban foods, but will work with retailers on offers",Mitsotakis,12.4921875,10000.0
+The Premier League match between Arsenal and Fulham was,Arsenal,12.375,10000.0
+The wrestling icon who passed away was,The Iron Sheik,5.30078125,200.49338426145144
+The Metropolitan Police is reopening an investigation into breaches of Covid regulations at a Christmas gathering at Conservative Party HQ,Conservative Party,10.140625,10000.0
+The Department for Infrastructure has conducted,"over 500,000 tests",5.73046875,308.1136628117644
+The current Premier League manager is,Kompany,12.96875,10000.0
+The UK government wants to introduce consistent recycling collection policies across England,England,11.4375,10000.0
+The song uses Artificial Intelligence to clone the voices of Drake and The Weeknd,Heart On My Sleeve,16.859375,10000.0
+"A 400-year-old hotel in Midhurst, Sussex, has been engulfed by a major blaze",Angel Inn hotel,19.703125,10000.0
+"Hallie, a 20-month-old girl from Coventry, has been diagnosed with leukaemia and is in need of treatment",Hallie,17.53125,10000.0
+Google's earthquake warning system,failed to get to many Turkish residents,4.04296875,56.9952966774873
+The former BBC Ukraine journalist is,Bondarenko,16.8125,10000.0
+Ukrainian President Volodymyr Zelensky has stated that an alleged Russian agent involved in the deadly attack in Kramatorsk will be charged with treason,Zelensky,14.1484375,10000.0
+The shooting of a 17-year-old during a traffic stop in Paris,M,11.984375,10000.0
+The festival known for its eco-consciousness is,Glastonbury,7.94921875,2833.3605226679456
+A serving member of the UK's armed forces shared,Newsome,13.2265625,10000.0
+Pop star Bebe Rexha was,Rexha,9.3359375,10000.0
+"The UK Prime Minister has promised a clampdown on potholes, as campaigning for the local elections gets under way.",Sunak,11.9765625,10000.0
+King Charles and the Queen Consort attended a Royal Maundy Service at,York Minster,3.919921875,50.396507397123145
+The current Emperor of Japan is,Naruhito,0.51708984375,1.6771398020712056
+The Russian opposition politician Vladimir Kara-Murza told the court,Kara-Murza,6.3359375,564.4983722159518
+The Premier League season will kick off with Manchester City playing against Burnley,City,7.83203125,2520.0430154933433
+The caver is,Taylor,9.828125,10000.0
+The North American Nanohertz Observatory for Gravitational Waves (NANOgrav) Collaboration is chaired by,Dr Stephen Taylor,2.990234375,19.89034374461794
+Footage shows a Ukrainian drone hitting a building in Russia's Tatarstan region,Ukrainian,12.140625,10000.0
+A woman charged with murdering her baby and attempting to murder her toddler,woman,8.6640625,5791.012930009886
+A man in the US witnessed,Addie,16.015625,10000.0
+Scientists have revealed how Nasa satellites detected the brightest gamma ray explosion in space,GRB,17.328125,10000.0
+The home secretary has told police leaders to,Braverman,16.25,10000.0
+Cardiff University has acknowledged the impact of AI on assessments and coursework,Cardiff University,19.265625,10000.0
+Extinction Rebellion demonstrators took part in a rally,outside Parliament,1.943359375,6.982167334831573
+The former first minister of Scotland is,Sturgeon,11.859375,10000.0
+The state of Vermont experienced,flash floods,6.4609375,639.6604572352473
+The fire occurred near the Dubai Creek in one of the oldest parts of the city,Dubai Creek,10.515625,10000.0
+The popular Tunisian tennis player is,Jabeur,11.1875,10000.0
+"The police search for Constance Marten and Mark Gordon began in early January, after their car was found burning on the side of the motorway",Marten and Gordon,13.421875,10000.0
+The current Prime Minister of Greece is,Mitsotakis,9.0859375,8830.240235797572
+The trial of Nurse Lucy Letby is hearing about her police interviews following her arrest,Letby,18.984375,10000.0
+The murder of Harry and Megan Tooze occurred at their farmhouse home in Llanharry on 26 July 1993,Tooze,13.6328125,10000.0
+The impact of Russia's invasion has been felt globally,Russia's invasion,12.9765625,10000.0
+The study on cancer evolution is,TracerX,12.125,10000.0
+The troubled banking giant is,Credit Suisse,12.4375,10000.0
+The director Shekhar Kapur has said Hollywood's push for more diverse casts has come from its guilt over,actors who are not getting work,8.0625,3173.213259472856
+The actor arriving at Southwark Crown Court in London on Wednesday morning is,Spacey,14.515625,10000.0
+The comedian who passed away was,Humphries,10.6953125,10000.0
+A woman died after a medical team took too long to call for specialist help,Abdelkarim,13.7890625,10000.0
+Australia's medicines regulator approved the use of psychedelics for therapy sessions,psychedelics,12.578125,10000.0
+The current Prime Minister of Spain is,Sánchez,6.25,518.012824668342
+The second drug in under a year has been shown to slow Alzheimer's,donanemab,13.921875,10000.0
+The US drone was on a routine mission in international airspace when two Russian jets tried to intercept it,US drone,8.109375,3325.498943407423
+The US President's son is,Biden,10.40625,10000.0
+The Ukrainian capital Kyiv has been attacked from the air by Russia for the ninth time this month,Kyiv,12.2109375,10000.0
+The 26-year-old beautician died after being shot at a pub on Christmas Eve,Edwards,17.5,10000.0
+The MP who spoke in the Commons while awaiting Covid test results is,Ferrier,11.8671875,10000.0
+The American actor known for his roles on Freaks and Geeks and the sketch comedy series SCTV has died,Flaherty,13.4453125,10000.0
+A woman has been arrested on suspicion of causing death by dangerous driving,woman,16.203125,10000.0
+Two far-right activists,destroyed a copy of Islam's holy book outside Iraq's embassy in Copenhagen last week,8.8515625,6985.29497096595
+NHS England is promising,quicker discharge arrangements,5.9609375,387.9736791189793
+Adam Price became the leader of Plaid Cymru in,2018,0.50927734375,1.6640881965852845
+The head of NATO has warned,Stoltenberg,11.0390625,10000.0
+Irish singer and activist Sinéad O'Connor has died at the age of 56,O'Connor,8.8515625,6985.29497096595
+The council that lost its High Court bid to block government plans to house asylum seekers at a former RAF base is,Braintree District Council,17.03125,10000.0
+The new First Minister of Scotland is,Yousaf,7.484375,1780.0113149866502
+The head of NATO has warned that an 'alliance of authoritarian powers' is working more closely together against Western democracies,Stoltenberg,14.640625,10000.0
+The parents of a 16-year-old girl who died following 'shocking' neglect have been jailed,Titford and Lloyd-Jones,21.515625,10000.0
+"Children are at most risk of exceeding the safe limits on aspartame, found in diet drinks",Children,12.015625,10000.0
+The most valuable athlete at auctions for sportswear memorabilia is,Jordan,7.75,2321.572414611057
+Laura Mackenzie is taking legal action against Police Scotland,Mackenzie,15.7734375,10000.0
+Mexican authorities have found,45 bags containing human remains,2.99609375,20.007230835729846
+The protests were in response to,Jordan Neely's death,8.671875,5836.432407343751
+"Wathig Ali, a British citizen in Khartoum, has just reached the airstrip with his pregnant wife and son",Ali,9.875,10000.0
+The capital of Georgia is,Tbilisi,0.339111328125,1.4036996077597517
+A pedestrian was caught between two cars that collided,cars,13.453125,10000.0
+Silvio Berlusconi's two eldest children are,Marina and Pier Silvio,12.15625,10000.0
+The fire at the department store was contained in,two rooms,3.767578125,43.275130861102994
+A freight train derailed in west London,derailed,10.859375,10000.0
+"The husband of Janice Hunter, who died at home near Paphos, is",Hunter,13.828125,10000.0
+The ghostwriter of Prince Harry's memoir is,Moehringer,14.3359375,10000.0
+The historic bridge linking Scotland and England over the River Tweed has reopened after a £10.5m overhaul,Union Chain Bridge,19.96875,10000.0
+The Sinn Féin MP who spoke at the IRA commemoration is,John Finucane,4.984375,146.11222634120347
+The former BBC Radio 2 presenter now appears on,Bruce,11.1875,10000.0
+The historic criminal indictment against former US President has sparked another partisan flashpoint in an already deeply polarised nation.,Trump,8.265625,3887.9021574548156
+A man has been arrested after a stabbing attack at a London hospital,arrested,15.7890625,10000.0
+The suspect who escaped from an Oregon courtroom is,Villalobos,18.375,10000.0
+The former FAW President is,Pritchard,9.78125,10000.0
+"The US President has praised Northern Ireland's young people, saying they are at the 'cutting edge' of its future during his visit to Belfast",Biden,12.109375,10000.0
+TV personality Paul O'Grady's funeral was attended by,O'Grady,8.46875,4763.55729978668
+A BBC presenter has been accused of,paying a teenager for sexually explicit photographs,6.87109375,964.00236699834
+"A ceiling panel fell at a subway station in Cambridge, Massachusetts",Cambridge,12.46875,10000.0
+"The leader of Belarus has been accused by the EU of orchestrating the border crisis with Poland, Lithuania and Latvia",Lukashenko,12.9921875,10000.0
+Ukraine has moved its official Christmas Day state holiday from,7 January to 25 December,0.6826171875,1.9790505064651536
+The suspect in the Idaho murders was pulled over by,state trooper,5.02734375,152.5273234252381
+The partner of the murdered pregnant teacher is,Yates,11.5546875,10000.0
+The singer is going to Las Vegas,Minogue,13.8984375,10000.0
+The doctor who raised concerns about nurse Lucy Letby is,Stephen Brearey,15.4140625,10000.0
+The SNP's treasurer was reappointed in 2021 after previously having held the role for 16 years,Beattie,12.3125,10000.0
+The investigation into sexual misconduct at Britain's biggest business lobby group has been widened,misconduct,17.171875,10000.0
+Protesters gathered on the Royal Mile,Royal Mile,17.015625,10000.0
+The former health secretary has been found to have breached Parliament's rules for attempting to influence an inquiry into a Conservative MP,Hancock,16.375,10000.0
+The current Formula 1 World Champion is,Verstappen,6.76953125,870.9035622506929
+The Radio 2 presenter who helped Rylan Clark with his Karaoke Challenge is,Bruce,13.4609375,10000.0
+The Kakhovka dam,dam,8.9375,7612.142890638241
+The Duke of Sussex attended his father's Coronation,Sussex,14.375,10000.0
+The personal copy of the debut novel by Virginia Woolf has been,digitised,5.34375,209.29610089202527
+Grimsby Town has apologised for posting an inappropriate video of a disabled boy,Price,18.1875,10000.0
+"The leader of Belarus, who is 68 years old, was seen in Moscow during the Victory Day parade",Lukashenko,11.8515625,10000.0
+Police in Birmingham encountered a,boa constrictor,7.04296875,1144.7811358637066
+Tony Johnson's partner said her family were,heartbroken and devastated,3.828125,45.97625189374871
+The South Carolina lawyer who was found guilty of murdering his wife and son is,Murdaugh,14.3828125,10000.0
+The US has accused Russia of,reckless behaviour,7.8125,2471.3009713300253
+The president of the Scottish Ice Rink Association is,Ferguson,16.6875,10000.0
+The Israeli military has begun an extensive operation in the occupied West Bank,Jenin,17.625,10000.0
+The families of two students killed in Nottingham are to create foundations in their name,O'Malley-Kumar and Webber,15.1875,10000.0
+Lisa-Marie Morris from Port Talbot is,Morris,15.3515625,10000.0
+The bus driver involved in the fatal crash in Australia was,Button,19.71875,10000.0
+The flowers were displayed in the fruit and veg aisle,daffodils,15.265625,10000.0
+"The Labour leader has claimed his party is on course to win the next general election, expected next year.",Starmer,11.515625,10000.0
+The latest episode of a popular children's television programme has been edited,Bluey,17.53125,10000.0
+The youth worker who was Tasered in central London in April 2018 is,Afriyie,9.75,10000.0
+The former Scotland international footballer has,Goodwillie,15.09375,10000.0
+The current Labour leader is,Starmer,14.5625,10000.0
+The Duke of Sussex is,Harry,13.890625,10000.0
+A major multi-agency search is under way for a missing person named Ausra Plungiene who was last seen on Tuesday morning,Plungiene,13.1796875,10000.0
+Two boys died in a bike crash in Ely,Sullivan,10.2734375,10000.0
+Kylian Mbappe scored a club record 201st goal for Paris St-Germain in an entertaining 4-2 win over Nantes.,Mbappe,4.01171875,55.24173574865985
+"Nigel Lawson, who has died at 91, was a",former Chancellor of the Exchequer,4.3828125,80.06289393593435
+The US government has ordered all non-emergency staff to leave the island,Mitsotakis,13.359375,10000.0
+The UK's schools minister has said,Gibb,12.546875,10000.0
+Transport for London's website shows,no services are running on any Tube lines,3.345703125,28.380523708580828
+The airport in West Sussex was,Gatwick,11.515625,10000.0
+The US Coast Guard has opened an investigation into the causes of the Titan submersible disaster,Neubauer,15.875,10000.0
+The first minister of Scotland has expressed concerns about the deposit return scheme,Yousaf,13.8359375,10000.0
+The latest Hollywood adaptation of the role-playing game Dungeons & Dragons stars,Michelle Rodriguez and Chris Pine,6.53515625,688.941423011762
+The UK government has,lost control,6.74609375,850.7291029602534
+"Victor Lee, a teenager from Ealing, was",fatally stabbed and then found in the Grand Union Canal in north west London has been named by police,4.921875,137.25973406168575
+The Russian forces damaged some 90% of residential buildings in,Mariupol,2.564453125,12.993550578338562
+The third inspection report for the A&E department at Glan Clwyd Hospital,Glan Clwyd Hospital,10.9609375,10000.0
+The current Prime Minister of Greece is,Mitsotakis,9.0859375,8830.240235797572
+The actor who starred as Omar Little in the HBO crime drama,Williams,15.9375,10000.0
+Twitter has laid off at least 200 staff,staff,9.203125,9928.105963256727
+The current Prime Minister of Spain is,Sánchez,6.25,518.012824668342
+Prof Michael Clarke from the London-based think tank Royal United Services Institute (Rusi) has been discussing the likelihood of Ukrainian involvement in the alleged Kremlin drone attack,Clarke,17.0625,10000.0
+The parents of a cyclist killed in Glasgow say their daughter would still be alive if Scotland had safer road infrastructure for bikes.,Burke Newman,14.0703125,10000.0
+The current Wales women's football manager is,Wilkinson,8.109375,3325.498943407423
+A woman has been jailed for more than two years for inducing an abortion after the legal limit,Foster,14.765625,10000.0
+The Tennessee lawmakers have passed a bill banning the release of airborne chemicals,Mitsotakis,12.3359375,10000.0
+The documentary 'Bread and Roses' is produced by,Lawrence,8.5546875,5191.03044101011
+"In 2016, Saudi Arabia cut ties with Iran after its embassy in Tehran was stormed",Iran,9.2734375,10000.0
+The Swedish singer who won the Eurovision Song Contest in 2012 is,Loreen,5.79296875,327.98528678000895
+The increase in deportation flights to Albania from the UK is due to,a joint co-operation agreement,1.78125,5.937273373745607
+The US President is visiting,Biden,5.64453125,282.74099031586354
+The woman with Down's syndrome is,Crowter,12.21875,10000.0
+The White House Correspondents' Association has warned,Association,13.859375,10000.0
+The €1.4bn telescope is,Euclid,11.421875,10000.0
+The Orkney councillors have voted to,investigate alternative methods of governance,5.46484375,236.23893989057657
+The Strangford Lough Ferry service will be suspended for,seven days,4.6640625,106.06610162605153
+The Labour shadow health secretary is,Streeting,18.21875,10000.0
+The entertainment giant has,Disney,12.8125,10000.0
+The Formula Regional European Championship driver who died was,van 't Hoff,12.3671875,10000.0
+The Iraqi Culture Minister is,Badrani,14.4921875,10000.0
+The 52-date tour is currently only scheduled to play in the US,US,9.640625,10000.0
+The Maremma sheep dogs' white coat means farmers can easily distinguish them from predators such as wolves,Maremma,10.59375,10000.0
+The island fort off the Pembrokeshire coast has been reclaimed by nature,Stack Rock Fort,16.40625,10000.0
+Warning have been put in place at some north coast beaches,North Ireland environmental authorities,11.515625,10000.0
+The Orkney councillors have voted to,investigate alternative methods of governance,5.46484375,236.23893989057657
+The search for survivors is,a race against the clock,4.63671875,103.20514949397284
+The UK's first full-sized driverless buses have started operating for passengers in Edinburgh,buses,9.9375,10000.0
+Fraudsters are offering to help people illegally pass their UK driving tests,help,15.140625,10000.0
+Labour leader Sir Keir Starmer has pledged to improve,children's speaking skills,4.96484375,143.28616006164455
+The British founder of the tech firm is,Mostaque,16.5,10000.0
+The UK's Covid inquiry is on its fourth day of public hearings,Covid inquiry,16.4375,10000.0
+The maths teacher who was attacked at Tewkesbury Academy is,Sansom,21.71875,10000.0
+The co-owner of Wrexham Football Club is,Reynolds,16.921875,10000.0
+The Illegal Migration Bill is,set to become law,3.6875,39.94485987582193
+The US actor known for roles in Saving Private Ryan and Black Hawk Down has died at 61,Sizemore,11.7890625,10000.0
+The Labour leader has accused the chancellor of,Starmer,12.3203125,10000.0
+"Footage of Connor Chapman's attack, which killed Elle Edwards, is released",Chapman,17.890625,10000.0
+The current Prime Minister of the UK is,Johnson,8.1796875,3567.7395679838205
+The head of Britain's equality watchdog is,Falkner,13.3671875,10000.0
+The government has extended a ban on unregulated homes to children in care aged 16 and 17,Mitsotakis,14.1796875,10000.0
+The former J-pop star who accused Johnny Kitagawa of sexual abuse is,Okamoto,12.671875,10000.0
+The harbour in Pwllheli resembles,a dolphin,0.57958984375,1.7853060261353937
+The current President of Russia is,Putin,4.953125,141.61682573322432
+The alleged assault happened on a train from Aberdare to Cardiff Central,Aberdare to Cardiff Central,12.84375,10000.0
+The chief inspector of Ofsted is,Spielman,17.609375,10000.0
+The UK's highest rollercoaster is,The Big One,7.84375,2549.7484851158824
+"The US Open first round featured record lows, two holes-in-one and a charging Rory McIlroy as the tournament returned to Los Angeles after a 75-year absence.",McIlroy,5.8515625,347.77735828917787
+"A missile launch by North Korea caused confusion in northern Japan, where an evacuation order was",issued and then retracted,0.8603515625,2.363991638443122
+The Ukrainian soldier who was killed in Bakhmut was,Kuzin,5.8125,334.45421691786504
+The BBC's director general who took over in 2020 is,Davie,9.734375,10000.0
+The Captain Tom Foundation is,under investigation,7.96484375,2877.97945849994
+A teenager was found with a gunshot injury on Norman Road,McDermott,15.0703125,10000.0
+The speedboat skipper was convicted of,failing to maintain a proper lookout and a safe speed,4.38671875,80.37625124290746
+The British pop group confirmed they will be continuing with their tour,S Club,11.921875,10000.0
+The Cleveland Clinic is using,magnets,7.75390625,2330.6587921328046
+"France has seen a quieter night of protests over the death of a teenager shot by police at point-blank range, the interior minister says.",France,10.7265625,10000.0
+The worst leak of US intelligence in 10 years,US intelligence,9.140625,9326.592430879735
+The complainants in this case have a legal right to,lifelong anonymity,7.76171875,2348.938375594565
+Quinten has a severe allergy to,"dairy, egg, soya and nuts",3.69140625,40.1011996370117
+"The Met Police has referred itself to the police watchdog over the treatment of a woman arrested in Croydon, south London, after wrongly being accused of bus fare evasion",Met Police,15.078125,10000.0
+The most-decorated living soldier in Australia is,Roberts-Smith,12.1328125,10000.0
+The former Italian Prime Minister was,Berlusconi,12.21875,10000.0
+The accused in the murder case is,Anwar,7.078125,1185.7431644582705
+Water companies in England,released raw sewage,8.8203125,6770.380038480667
+The UK's first evacuation flight carrying British nationals from Sudan has landed in,Cyprus,2.90234375,18.216790978454146
+The US President is,Biden,10.53125,10000.0
+The company behind Boots the Chemist is,Walgreens Boots Alliance,14.59375,10000.0
+The government watchdog warns that the UK has lost its leadership on climate issues,CCC,11.5625,10000.0
+The Indian state of Manipur is experiencing,violence,4.34765625,77.29708541258049
+The British swimming champion mentioned his mental health issues,Peaty,14.46875,10000.0
+The CBI's new director general said the result was an,important milestone,4.51171875,91.07822475921115
+The co-founder of DeepMind is,Suleyman,8.96875,7853.778244357167
+A man is accused of shooting a nine-year-old girl and injuring her mother,Cashman,9.0859375,8830.240235797572
+A man has been charged with stealing a famous pair of red slippers from a museum,Martin,19.28125,10000.0
+Some students in Wales will not graduate on time or with their final grades due to a marking boycott,boycott,10.2578125,10000.0
+The impounded cars are being sent to Ukraine,Latvia,12.96875,10000.0
+The attack happened at the Cantinho Bom Pastor kindergarten in,Blumenau,10.0546875,10000.0
+A man has died a week after getting stuck inside an indoor caving experience at a Lake District climbing centre,O'Keeffe,13.6328125,10000.0
+Firefighters are tackling a wildfire,Crews,12.8125,10000.0
+A teenage boy has been found dead in the River Eden in Carlisle,Eden,11.8125,10000.0
+The chief executive of NBCUniversal has resigned,Shell,14.8671875,10000.0
+The US Treasury has indicated that the country could run out of money to pay all its bills by,Monday,8.6875,5928.342844080489
+The Duchess of York is recuperating with family after having a single mastectomy following a diagnosis for breast cancer.,Ferguson,15.5234375,10000.0
+The family of the murdered private detective has reached a settlement with the Met Police,Morgan,17.09375,10000.0
+The M23 rebels are,withdrawing from several captured villages,3.8515625,47.06654728734682
+The Prince and Princess of Wales visited,Wales,6.04296875,421.1414445251494
+"Howell Williams, from Treharris, was just 25 when the colliery spoil tip collapsed, engulfing Pantglas Primary School on 21 October",Williams,20.953125,10000.0
+The TV series Blade Runner 2099 is based on,Blade Runner,7.76171875,2348.938375594565
+Twitter's owner has announced temporary limits on the number of tweets users can read in a day,Musk,16.34375,10000.0
+The former SNP chief executive has been released without charge by the police,Murrell,15.0390625,10000.0
+The tennis player who is first up on Centre Court is,Broady,9.953125,10000.0
+The photographers who took this photo are,Morris,11.1328125,10000.0
+The government is discussing plans for supermarkets to introduce a cap on the price of basic food items to help tackle the rising cost of living.,cap on the price of basic food items,14.9453125,10000.0
+The housing estate where Nahel lived is,Picasso,12.015625,10000.0
+The government's National Disability Strategy was,deemed 'unlawful',6.56640625,710.810771345436
+The number of fatal accidents involving farm machinery in Northern Ireland,53 people,8.9921875,8040.025228168563
+The family of a murder victim whose body has never been found has revealed how a charity set up in memory of sales executive Moira Jones has helped them come to terms with their loss,Moira Jones,13.71875,10000.0
+Turkish voters are faced with a momentous choice which will affect their country's political and economic future,Erdogan,15.359375,10000.0
+"The 7.4 magnitude earthquake in Taiwan occurred near the eastern county of Hualien,",Taiwan,6.3671875,582.4174740777829
+The Australian cricket team's ninth-wicket pair in the Ashes Test at Edgbaston,Cummins and Lyon,7.921875,2756.935456562909
+The community representative is,Tsifidaris,10.3671875,10000.0
+England and Australia will pay tribute to the victims of the Nottingham attacks on day one of the first Ashes Test at Edgbaston on Friday.,Mitsotakis,8.8828125,7207.032035730754
+The woman who was prosecuted for failing to declare her minimum wage job while caring for her mother is,Groom,20.015625,10000.0
+"Chrissy Teigen, a singer and TV personality, has welcomed her fourth child with John Legend",Teigen,15.5234375,10000.0
+The manager of Chelsea is,Hayes,12.4296875,10000.0
+The nurse accused of murdering babies on a neonatal ward is,Letby,13.890625,10000.0
+The coronation of King Charles will be attended by,military personnel,7.0078125,1105.234158889827
+The health of the top Chechen commander is,Delimkhanov,16.109375,10000.0
+The European Parliament has taken two years to come up with a definition of an AI system,European Parliament,14.96875,10000.0
+The weather warning is in place until,10:00 GMT on Thursday,0.6240234375,1.8664223890485916
+The Silicon Valley pioneer and philanthropist who died aged 94 in Hawaii is,Moore,14.8203125,10000.0
+Gary Lineker will return to present Match of the Day,Lineker,15.1953125,10000.0
+The entrepreneur who wanted to be the first person to reach Mars was,Rush,9.3671875,10000.0
+The Deputy First Minister of Scotland is,Swinney,13.203125,10000.0
+A hospital fire in Beijing has resulted in,deaths,4.8203125,124.00383592430612
+The daughter of a close ally of Russia's President Vladimir Putin was killed in a suspected car bombing,Dugina,13.5625,10000.0
+Manchester City striker Erling Haaland has broken the record for most goals in a Premier League season,Haaland,16.65625,10000.0
+The Commonwealth Games Federation is considering,hosting the event in 2026,5.90234375,365.89402781973274
+The rate of price rises at UK supermarkets,hit a new high,3.505859375,33.31005738633129
+The surviving Hooded Men were,Hooded Men,8.09375,3273.9418610498587
+The death of an elderly woman was caused by,police escorting the Duchess of Edinburgh,6.24609375,515.9932840552193
+The Marrams in Hemsby,Marrams,10.6953125,10000.0
+The Economy Secretary of Scotland is,Neil Gray,9.921875,10000.0
+The BBC's Russia Editor is,Rosenberg,11.765625,10000.0
+Mikaela Shiffrin became the greatest Alpine skier of all time with her 87th World Cup win,Shiffrin,11.2421875,10000.0
+The Red Bull driver led a one-two in qualifying at the Japanese Grand Prix,Verstappen,13.625,10000.0
+The Dutch Prime Minister has been holding talks to save his coalition,Rutte,12.5703125,10000.0
+The coach driver who described the situation is,Jones,9.8828125,10000.0
+The last member of the armed gang responsible for the murder of PC Sharon Beshenivsky has been found guilty,Piran Ditta Khan,20.546875,10000.0
+Cole Palmer scored twice deep into stoppage time to complete his hat-trick and earn Chelsea a remarkable win against Manchester United,Palmer,15.0390625,10000.0
+The police force responsible for Greater Manchester is,GMP,10.8984375,10000.0
+Wildcat Haven has written to North Wales Police,Haven,8.6640625,5791.012930009886
+"Ross Burns, a 43-year-old from Edinburgh, has completed a three-year project",Burns,15.8125,10000.0
+Ukraine's President has denied,Zelensky,7.9375,2800.3508727251633
+The oil and gas company has had some of its adverts banned for misleading claims about how clean its overall energy production is,Shell,12.53125,10000.0
+Canadian film-maker Sarah Polley won the,Best Adapted Screenplay award,2.779296875,16.107691244988956
+The outgoing Prime Minister of Finland is,Marin,7.03125,1131.4440316534813
+Lewis Capaldi had to rely on the crowd to finish his performance at Glastonbury,Capaldi,15.546875,10000.0
+The Ukrainian President has accused Russian forces of,blowing up a major dam,6.30859375,549.27199171561
+England's former chief medical officer was,Dame Sally Davies,11.1015625,10000.0
+The man who killed Olivia was,Cashman,8.9921875,8040.025228168563
+The England rugby player has retired from international rugby,Cornborough,14.53125,10000.0
+The government first promised guidance for schools in relation to transgender pupils,transgender,12.0,10000.0
+"The former Arsenal, Real Madrid and Germany midfielder has retired from football at the age of 34",Ozil,13.1953125,10000.0
+The co-host of Eurovision is,Dixon,8.109375,3325.498943407423
+The Health Secretary of England has announced a pay rise for NHS staff,Barclay,17.609375,10000.0
+The former world boxing champion was robbed at gunpoint,Khan,18.484375,10000.0
+The actress who played Eunice Gee and Brigid McKenna in UK soap operas is,Johnson,13.2734375,10000.0
+The head coach of Plymouth Argyle has been sacked,Foster,12.5546875,10000.0
+The former England football captain has,Lineker,19.453125,10000.0
+The Conservative MP who apologised for attending an event in Parliament while Covid restrictions were in place is,Crosbie,11.59375,10000.0
+Pope Francis is,Francis,12.6328125,10000.0
+"A car crashed into a primary school building in Wimbledon, south-west London",car,13.109375,10000.0
+The 24-year-old gunman who killed 23 people at a Walmart in 2019 has been sentenced to,90 consecutive life sentences in federal prison,2.16796875,8.740511832292928
+Police cars were parked outside a temporary housing unit in Sidegate Lane on Friday,Sidegate Lane,15.4296875,10000.0
+At least 29 people have been killed and one injured in a fire in a nightclub in Turkey,Turkey,12.4609375,10000.0
+Holly Willoughby has said she feels,"shaken, troubled and let down",7.609375,2017.01706801857
+A deadly fire at a school dormitory in Guyana was reportedly started by a pupil who was angry her mobile phone had been confiscated,Mitsotakis,12.3671875,10000.0
+"The man who murdered a 71-year-old woman after she mistook his home for a B&B and got into his bed, has been jailed for at least 14 years.",Redfern,13.015625,10000.0
+The current President of Turkey is,Erdogan,4.578125,97.33172602285453
+A woman survived a mass shooting by hiding in a bank vault in Kentucky,woman,13.046875,10000.0
+The Ukrainian official posted drone footage showing,debris after Russian strike,6.4921875,659.9654597903282
+Pop star Paul Heaton is supporting four pubs in Warrington,Heaton,9.5859375,10000.0
+The former US President is,Trump,9.8359375,10000.0
+A woman who was struck by a police motorcycle while visiting London has died,Holland,17.46875,10000.0
+The investigation into the prime minister by the parliamentary commissioner for standards is,a rather minor tremor,2.90625,18.28808948244362
+The man who set fire to the flat where three people died was found guilty of,murder,1.341796875,3.825912018246517
+The Florida Supreme Court has,upheld the state's right to prohibit abortion,2.6875,14.694892728788941
+The recipient of the Queen's Gallantry Medal for using a narwhal tusk to fend off an attacker is,Darryn Frost,9.5078125,10000.0
+Germany's labour market,has a shortage of,1.6923828125,5.432409709077657
+King Charles III is,III,14.7421875,10000.0
+"China's peace plan for Ukraine could be used as a basis to end the war, Vladimir Putin has said.",Putin,8.9765625,7915.3761905655465
+The city where Maksym was killed is,Bakhmut,4.86328125,129.44825810694724
+"The BBC Singers, a choir of 20 musicians, had been due to close in July",Singers,17.828125,10000.0
+"The man who spent £25,000 on the billboard is",Whitehead,11.609375,10000.0
+The Menai suspension bridge was closed,at five minutes' notice,4.30859375,74.33588057277046
+The founder of World Central Kitchen is,Andrés,13.1328125,10000.0
+The UK government has announced that residents on an island off the west coast of Shetland's mainland will get a high-speed broadband link from space,Papa Stour,21.78125,10000.0
+Two mounted police officers pursued a man for holding his mobile phone while driving,mounted police officers,13.1875,10000.0
+The tennis player who won his Wimbledon title defence is,Djokovic,12.7421875,10000.0
+The environmental group Just Stop Oil has,said,3.1796875,24.039240115615065
+The Taiwanese Prime Minister is,Mitsotakis,9.6015625,10000.0
+"Daniel Allen, whose address is given as Molly Road, Enniskillen, is charged with",murder,3.373046875,29.167260806600495
+"China is pressuring Uyghurs living abroad to spy on human rights campaigners by threatening families back home, researchers say.",Uyghurs,8.9453125,7671.845667278888
+The privately owned companies in England have announced plans to spend £10bn on,tackling sewage spills,6.25390625,520.0402695399388
+The Swansea West MP was suspended by the Labour Party,Davies,16.4375,10000.0
+The man who murdered nine-year-old Olivia Pratt-Korbel has been jailed for life and ordered to serve a minimum of 42 years in prison.,Cashman,8.90625,7377.941875189409
+A woman was charged with causing death by driving while over the alcohol limit,Mahoney,16.40625,10000.0
+The West Bromwich Albion player who scored the equalizer is,Thomas-Asante,6.8359375,930.7004735480381
+UFC fighter Conor McGregor has been accused of,sexually assaulting a woman,4.44921875,85.56007407666469
+A man has been charged with murdering a married couple found dead at their seaside home,D'Wit,12.0234375,10000.0
+Prosecutors have begun piecing together what happened before the fatal shooting of 17-year-old Nahel M by a police officer,M,11.5703125,10000.0
+Seven protesters have been arrested,arrested,13.28125,10000.0
+The latest version of the popular AI chatbot is,GPT-4,10.7578125,10000.0
+The environmental protest group Just Stop Oil has targeted,Oil,7.19921875,1338.384742765137
+The BBC's regional TV bulletins and local radio and online output in England are being disrupted by a 24-hour strike,strike,10.3046875,10000.0
+The senior security official of Ukraine is,Danilov,12.1484375,10000.0
+The Royal College of Nursing staged its most extensive strike action ever,Royal College of Nursing,16.140625,10000.0
+The Scout Association has,apologised,2.640625,14.021964597512564
+The Prime Minister of Israel is,Netanyahu,10.3828125,10000.0
+The leader of the council is,Smith,10.9296875,10000.0
+King Charles III received the crown and sceptre which form part of the Honours of Scotland,Mitsotakis,12.8046875,10000.0
+"Police were called to Priory Road, Dartford at 12:45 BST on Saturday by neighbours who reported hearing gunshots",gunshots,9.8125,10000.0
+The government plans to make it more difficult for children to illegally buy e-cigarettes in England,e-cigarettes,11.71875,10000.0
+A video filmed on a phone shows the moment a driver in Spain lost control of their car,Spain,19.15625,10000.0
